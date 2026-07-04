@@ -89,8 +89,8 @@ Dashboard screenshots used in this project.
 
 📁 **reports**
 
-- Cement Demand Forecasting Report (PDF)
-- Project Presentation (PDF)
+- Cement Demand Forecasting DA Report (PDF)
+- Project Team Presentation Slide (PDF)
 
 ---
 
