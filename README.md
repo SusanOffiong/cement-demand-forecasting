@@ -110,7 +110,7 @@ That mindset guides how I analyse data, build dashboards, and communicate insigh
 
 **Portfolio**
 
-https://susanoffiong.github.io
+[https://susanoffiong.github.io](https://susanoffiong.github.io/suepraise.github.io/)
 
 **LinkedIn**
 
