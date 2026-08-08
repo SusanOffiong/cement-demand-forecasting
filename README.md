@@ -109,8 +109,7 @@ That mindset guides how I analyse data, build dashboards, and communicate insigh
 ## Connect With Me
 
 **Portfolio**
-
-[https://susanoffiong.github.io](https://susanoffiong.github.io/suepraise.github.io/)
+https://susanoffiong.github.io/suepraise.github.io/
 
 **LinkedIn**
 
